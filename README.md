@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donya</h1>
 <h3 align="center">A Flutter developer from Iran</h3>
 
-- 🌱 I’m currently learning **flutter and android**
+- 🌱 I’m currently learning "C# and backend development with .NET, aiming to grow as a full-stack developer"
 
 - 📫 How to reach me **donyaahmadyan1@gmail.com**
 
